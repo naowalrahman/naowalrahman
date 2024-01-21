@@ -3,11 +3,9 @@
 ```javascript
 const naowal = {
     code: [C, C++, Java, Python, HTML, CSS, JavaScript, Shell, Lua, Julia],
-    tools: [Ncurses, WPILib, TensorFlow, Numpy/Pandas, React,
-            Node, Bootstrap, Tailwind, Express, MongoDB, Neovim, JuMP],
+    tools: [Ncurses, WPILib, TensorFlow, Numpy/Pandas, React, Node, Bootstrap, Tailwind, Express, MongoDB, Neovim, JuMP],
     os: Arch Linux,
-    interests: [Competitive Programming, Robotics, Systems,
-                Linux, Machine Learning, Computation],
+    interests: [Competitive Programming, Robotics, Systems, Linux, Machine Learning, Computation],
     fun: [No Man's Sky, Minecraft, Basketball]
 }
 ```
