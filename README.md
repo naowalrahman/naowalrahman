@@ -13,7 +13,6 @@ const naowal = {
 ```
 
 ![stats](https://github-readme-stats.vercel.app/api?username=naowalrahman&show_icons=true&theme=tokyonight&border_radius=10&rank_icon=github)
-![streak](https://streak-stats.demolab.com/?user=naowalrahman&theme=tokyonight&border_radius=10)
 
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?langs_count=20&layout=pie&username=naowalrahman&theme=tokyonight)
 
