@@ -15,4 +15,4 @@ const naowal = {
 
 ![stats](https://github-readme-stats.vercel.app/api?username=naowalrahman&show_icons=true&theme=tokyonight&rank_icon=github)
 
-![streak](https://streak-stats.demolab.com/?user=naowalrahman&theme=tokyonight)
+![streak](https://github-readme-streak-stats-eight.vercel.app/?user=naowalrahman&theme=tokyonight)
