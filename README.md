@@ -4,8 +4,8 @@
 ```javascript
 const naowal = {
     code: [C, C++, Java, Python, HTML, CSS, JavaScript, Shell, Lua, Julia],
-    tools: [PyTorhc, TensorFlow, Numpy, Pandas, NextJS, React, Node,
-            Bootstrap, Tailwind, Express, MongoDB, Neovim, JuMP, Ncurses, WPILib],
+    tools: [PyTorch, Numpy, Pandas, NextJS, React, Node, Bootstrap,
+            Tailwind, Express, MongoDB, Neovim, JuMP, Ncurses, WPILib],
     os: Arch Linux,
     interests: [Competitive Programming, Robotics, Systems,
                 Linux, Machine Learning, Computation],
