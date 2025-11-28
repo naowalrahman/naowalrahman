@@ -3,13 +3,11 @@
 
 ```javascript
 const naowal = {
-    code: [C, C++, Java, Python, HTML, CSS, JavaScript, Shell, Lua, Julia],
-    tools: [PyTorch, Numpy, Pandas, NextJS, React, Node, Bootstrap,
-            Tailwind, Express, MongoDB, Neovim, JuMP, Ncurses, WPILib],
+    code: [Python, C++, C, TypeScript, JavaScript, HTML, CSS, Lua, Java, Shell, Julia],
+    tools: [PyTorch, NumPy, Pandas, ROS, NextJS, React, Firebase, Supabase, Neovim],
     os: Arch Linux,
-    interests: [Competitive Programming, Robotics, Systems,
-                Linux, Machine Learning, Computation],
-    fun: [No Man's Sky, Minecraft, Basketball]
+    interests: [Robotics, Machine Learning, Systems, Linux, Computation, Competitive Programming],
+    fun: [Lifting, No Man's Sky, Minecraft]
 }
 ```
 
